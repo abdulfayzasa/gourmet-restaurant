@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/gourmet-restaurant/static/js/main.f468e1e2.chunk.js",
-    "main.js.map": "/gourmet-restaurant/static/js/main.f468e1e2.chunk.js.map",
+    "main.js": "/gourmet-restaurant/static/js/main.c58f83fb.chunk.js",
+    "main.js.map": "/gourmet-restaurant/static/js/main.c58f83fb.chunk.js.map",
     "runtime-main.js": "/gourmet-restaurant/static/js/runtime-main.e1ad4591.js",
     "runtime-main.js.map": "/gourmet-restaurant/static/js/runtime-main.e1ad4591.js.map",
-    "static/js/2.d272184c.chunk.js": "/gourmet-restaurant/static/js/2.d272184c.chunk.js",
-    "static/js/2.d272184c.chunk.js.map": "/gourmet-restaurant/static/js/2.d272184c.chunk.js.map",
+    "static/js/2.5c1dd3a0.chunk.js": "/gourmet-restaurant/static/js/2.5c1dd3a0.chunk.js",
+    "static/js/2.5c1dd3a0.chunk.js.map": "/gourmet-restaurant/static/js/2.5c1dd3a0.chunk.js.map",
     "static/js/3.8967f141.chunk.js": "/gourmet-restaurant/static/js/3.8967f141.chunk.js",
     "static/js/3.8967f141.chunk.js.map": "/gourmet-restaurant/static/js/3.8967f141.chunk.js.map",
     "index.html": "/gourmet-restaurant/index.html",
-    "static/js/2.d272184c.chunk.js.LICENSE.txt": "/gourmet-restaurant/static/js/2.d272184c.chunk.js.LICENSE.txt"
+    "static/js/2.5c1dd3a0.chunk.js.LICENSE.txt": "/gourmet-restaurant/static/js/2.5c1dd3a0.chunk.js.LICENSE.txt",
+    "static/media/hamburger-header.ab0b5834.jpg": "/gourmet-restaurant/static/media/hamburger-header.ab0b5834.jpg",
+    "static/media/hamburger.300dd093.jpg": "/gourmet-restaurant/static/media/hamburger.300dd093.jpg",
+    "static/media/tablesetting.a72da3cc.jpg": "/gourmet-restaurant/static/media/tablesetting.a72da3cc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e1ad4591.js",
-    "static/js/2.d272184c.chunk.js",
-    "static/js/main.f468e1e2.chunk.js"
+    "static/js/2.5c1dd3a0.chunk.js",
+    "static/js/main.c58f83fb.chunk.js"
   ]
 }
